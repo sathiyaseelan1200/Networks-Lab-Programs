@@ -2,10 +2,12 @@
 
 ### List of Experiments
 
-1(a). Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute.1(b). Capture ping and traceroute PDUs using a network protocol analyzer and examine.
+1(a). Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute.
+
+1(b). Capture ping and traceroute PDUs using a network protocol analyzer and examine.
 
 2. Write a HTTP web client program to download a web page using TCP sockets.
-3.using TCP sockets like:
+3. using TCP sockets like:
    1. 3(a) Echo client and echo server
    2. 3(b) Chat
    3. 3(c) File Transfer
