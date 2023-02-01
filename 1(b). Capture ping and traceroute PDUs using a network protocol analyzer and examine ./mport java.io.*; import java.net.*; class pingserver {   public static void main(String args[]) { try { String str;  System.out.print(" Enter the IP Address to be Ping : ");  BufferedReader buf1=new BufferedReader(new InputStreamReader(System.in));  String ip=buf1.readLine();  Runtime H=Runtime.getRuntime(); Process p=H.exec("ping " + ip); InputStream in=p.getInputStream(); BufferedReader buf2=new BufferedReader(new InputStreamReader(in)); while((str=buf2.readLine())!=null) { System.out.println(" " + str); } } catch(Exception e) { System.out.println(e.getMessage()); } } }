@@ -1,6 +1,6 @@
 mport java.io.*;
 import java.net.*;
-class pingserver
+class tracert
 {
   public static void main(String args[])
 {
